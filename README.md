@@ -5,6 +5,16 @@
 - 💻 portfolio　website: [portfolio](https://main.d3cdten3692fav.amplifyapp.com/)
 
 # Technology 
+HTML
+CSS
+JavaScript
+React
+Node.js / express.js
+Git
+SQL
+PhotoShop
+Figma
+
 
 # Connect with me
 [<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Erica instagram" width="35px"/>](https://www.instagram.com/erica.1119/)
